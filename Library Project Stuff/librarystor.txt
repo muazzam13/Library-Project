@@ -1,0 +1,15 @@
+4
+1
+1 0
+Book Name
+Book Author
+1
+123 0
+Harry
+Me
+2
+2 0 1
+Journal Name
+3
+3 0 1
+Magazine Name
